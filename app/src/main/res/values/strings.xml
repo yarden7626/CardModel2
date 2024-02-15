@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">CardModel2</string>
+    <string name="textview">TextView</string>
     <string-array name="numbers">
         <item>1</item>
         <item>2</item>
