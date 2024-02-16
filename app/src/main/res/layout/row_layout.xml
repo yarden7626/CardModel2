@@ -29,7 +29,8 @@
                 app:layout_constraintEnd_toStartOf="@id/textView2"
                 app:layout_constraintStart_toEndOf="@id/textView2"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toTopOf="parent"
+                android:importantForAccessibility="no" />
 
             <TextView
                 android:id="@+id/textView2"
